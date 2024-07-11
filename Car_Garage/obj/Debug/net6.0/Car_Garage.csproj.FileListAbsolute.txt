@@ -1,0 +1,15 @@
+D:\Нова папка\Car_Garage\Car_Garage\bin\Debug\net6.0\Car_Garage.exe
+D:\Нова папка\Car_Garage\Car_Garage\bin\Debug\net6.0\Car_Garage.deps.json
+D:\Нова папка\Car_Garage\Car_Garage\bin\Debug\net6.0\Car_Garage.runtimeconfig.json
+D:\Нова папка\Car_Garage\Car_Garage\bin\Debug\net6.0\Car_Garage.dll
+D:\Нова папка\Car_Garage\Car_Garage\bin\Debug\net6.0\ref\Car_Garage.dll
+D:\Нова папка\Car_Garage\Car_Garage\bin\Debug\net6.0\Car_Garage.pdb
+D:\Нова папка\Car_Garage\Car_Garage\obj\Debug\net6.0\Car_Garage.csproj.AssemblyReference.cache
+D:\Нова папка\Car_Garage\Car_Garage\obj\Debug\net6.0\Car_Garage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\Car_Garage\Car_Garage\obj\Debug\net6.0\Car_Garage.AssemblyInfoInputs.cache
+D:\Нова папка\Car_Garage\Car_Garage\obj\Debug\net6.0\Car_Garage.AssemblyInfo.cs
+D:\Нова папка\Car_Garage\Car_Garage\obj\Debug\net6.0\Car_Garage.csproj.CoreCompileInputs.cache
+D:\Нова папка\Car_Garage\Car_Garage\obj\Debug\net6.0\Car_Garage.dll
+D:\Нова папка\Car_Garage\Car_Garage\obj\Debug\net6.0\ref\Car_Garage.dll
+D:\Нова папка\Car_Garage\Car_Garage\obj\Debug\net6.0\Car_Garage.pdb
+D:\Нова папка\Car_Garage\Car_Garage\obj\Debug\net6.0\Car_Garage.genruntimeconfig.cache
